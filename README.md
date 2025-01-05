@@ -19,7 +19,7 @@ Key Computer Science Aspects:
 - Random
 
 # Results
-Our algorithm and program won first place in the CFM101 in 2024. We competed against 16 teams.
+Our algorithm and program won first place in the CFM101 in 2024. We competed against 17 teams.
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/d1c5fa35-e8ba-485a-8c68-974718b04083" />
 
