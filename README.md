@@ -1,5 +1,5 @@
 # Stock Portfolio Advisor
-University of Waterloo CFM101 Final Assignment
+University of Waterloo CFM101 Final Assignment. Collaborated with Griffin Chen and Caesar Zhou.
 
 This program uses a constructed algorithm in attempt to out preform the market's (S&P 500 and TSX 60) average return over a period of time by picking a basket of stocks. The exact parameters and requirements are found in requirements.pdf. The discussion of all aspects used within the program to achieve this is commented in markdown boxes within the program.
 
